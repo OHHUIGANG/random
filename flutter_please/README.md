@@ -1,6 +1,6 @@
 # flutterplease
 
-팁 계산기
+랜덤 이름
 
 ## Getting Started
 
